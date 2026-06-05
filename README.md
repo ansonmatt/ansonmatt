@@ -24,7 +24,6 @@ Most engineers ask *what* a model outputs. I ask *how* that output looks, feels,
 My focus: **Computer Vision × Generative AI × Reinforcement Learning** — specifically translating human aesthetic judgements (layout, colour, visual hierarchy) into mathematical models and reward functions.
 
 - 🏆 **2nd Runner-Up** — GRASP 2026 National Hackathon (KRUU & ASME) · Rs. 20,000 prize
-- 🎓 **Elite + Gold (90%)** — The Joy of Computing using Python · NPTEL · IIT Ropar
 - 🌐 **Google Student Ambassador** — bridging Google's tech ecosystem with 800+ campus students
 - 🎨 Designer first, engineer always — newsletter editor, event photographer, brand designer
 
@@ -58,9 +57,10 @@ My focus: **Computer Vision × Generative AI × Reinforcement Learning** — spe
 
 ## 🚀 Featured Projects
 
-### 🏆 Dr. Nudge — AI Medication Adherence Platform
+[![🏆 Dr. Nudge — AI Medication Adherence Platform]](https://github.com/alv1n25/Grassroots-Hackathon-Dr.Nudge)
 > 2nd Runner-Up · GRASP 2026 · KRUU & ASME · Rs. 20,000 Prize
 
+A collaborative project with a team of 3 members.
 An AI-driven platform that converts complex prescriptions into personalised medication plans using **GPT-4 Vision + Tesseract OCR**, behavioural nudge science, and **OpenFDA drug interaction checks**. Built with React + Supabase with full accessibility support.
 
 `GPT-4 Vision` `React.js` `Supabase` `OCR` `OpenFDA API` `Behavioural AI`
