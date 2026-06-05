@@ -91,18 +91,6 @@ A **YOLO-based pipeline** that tracks pedestrians in live video and triggers ale
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Anson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansonmatt&show_icons=true&theme=dark&hide_border=true&bg_color=1a1714&title_color=c85f2a&icon_color=c85f2a&text_color=faf9f6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansonmatt&layout=compact&theme=dark&hide_border=true&bg_color=1a1714&title_color=c85f2a&text_color=faf9f6)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to:
