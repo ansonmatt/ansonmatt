@@ -57,7 +57,7 @@ My focus: **Computer Vision × Generative AI × Reinforcement Learning** — spe
 
 ## 🚀 Featured Projects
 
-[![🏆 Dr. Nudge — AI Medication Adherence Platform]](https://github.com/alv1n25/Grassroots-Hackathon-Dr.Nudge)
+[🏆 Dr. Nudge — AI Medication Adherence Platform](https://github.com/alv1n25/Grassroots-Hackathon-Dr.Nudge)
 > 2nd Runner-Up · GRASP 2026 · KRUU & ASME · Rs. 20,000 Prize
 
 A collaborative project with a team of 3 members.
@@ -67,7 +67,7 @@ An AI-driven platform that converts complex prescriptions into personalised medi
 
 ---
 
-### 👁️ Pedestrian Boundary Detection
+[👁️ Pedestrian Boundary Detection](https://github.com/ansonmatt/Person-and-Boundary-Detection)
 > Computer Vision · Real-time Object Detection
 
 A **YOLO-based pipeline** that tracks pedestrians in live video and triggers alerts when individuals cross predefined restricted zones. Uses polygon zone mapping and centroid tracking — reliable across variable lighting.
