@@ -76,6 +76,15 @@ A **YOLO-based pipeline** that tracks pedestrians in live video and triggers ale
 
 ---
 
+[🚘 ADAS System Visualizer & Telemetry Console](https://github.com/ansonmatt/adas-dashboard)
+> Computer Vision · Real-time Object Detection · Streamlit Implemented
+
+A **YOLO-26 based pipeline** that detects traffic in dashcam footage and triggers alerts when traffic or pedestrians cross in front of the vehicle. Uses polygon zone mapping and centroid tracking to detect lanes and the other vehicles — reliable across variable lighting.
+
+`YOLO26` `Python` `OpenCV` `Computer Vision` `Streamlit`
+
+---
+
 ## 📜 Certifications
 
 | Certificate | Issuer | Year |
