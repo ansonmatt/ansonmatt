@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm a B.Tech Computer Science (AI & ML) student at **Christ University, Bengaluru** and a **2026 Google Student Ambassador** — with a background in creative design that shapes how I think about every technical problem.
+I'm a B.Tech Computer Science (AI & ML) student at **Christ University, Bengaluru**, a **2026 Google Student Ambassador** and a **GeeksforGeeks Campus Mantri 2026** — with a background in creative design that shapes how I think about every technical problem.
 
 Most engineers ask *what* a model outputs. I ask *how* that output looks, feels, and communicates.
 
@@ -26,6 +26,7 @@ My focus: **Computer Vision × Generative AI × Reinforcement Learning** — spe
 
 - 🏆 **2nd Runner-Up** — GRASP 2026 National Hackathon (KRUU & ASME) · Rs. 20,000 prize
 - 🌐 **Google Student Ambassador** — bridging Google's tech ecosystem with 800+ campus students
+- 📗 **GeeksforGeeks Campus Mantri** — connecting the campus to the industry through collaborations
 - 🎨 Designer first, engineer always — newsletter editor, event photographer, brand designer
 
 ---
