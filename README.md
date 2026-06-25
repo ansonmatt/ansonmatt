@@ -1,6 +1,7 @@
 <div align="center">
 
-<!-- HEADER BANNER — replace with your own Canva-made banner image -->
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/7f0744c8-4752-4e5a-ac46-20894be9ad79" />
+
 <!-- Suggested: dark background, your name in serif, "Computer Vision · Generative AI · Design" as subtitle -->
 
 # Anson Mathew Allan
