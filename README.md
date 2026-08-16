@@ -91,6 +91,8 @@ A **YOLO-26 based pipeline** that detects traffic in dashcam footage and trigger
 
 | Certificate | Issuer | Year |
 |---|---|---|
+| AWS Certified AI Practitioner | AWS | 2026 |
+| Foundation Course on AI Readiness | IICT, Ministry of Information and Broadcasting, Google, YouTube | 2026 |
 | AI Fluency: Framework & Foundations | Anthropic | 2026 |
 | The Joy of Computing using Python — **Elite + Gold 90%** | NPTEL · IIT Ropar | 2026 |
 | 5-Day AI Agents Intensive with Google | Kaggle | 2025 |
