@@ -59,7 +59,7 @@ My focus: **Computer Vision × Generative AI × Reinforcement Learning** - speci
 
 ## ▶ Featured Projects
 
-[> Dr. Nudge - AI Medication Adherence Platform](https://github.com/alv1n25/Grassroots-Hackathon-Dr.Nudge)
+[> AI Medication Adherence & Manager](https://github.com/alv1n25/Grassroots-Hackathon-Dr.Nudge)
 > 2nd Runner-Up · GRASP 2026 · KRUU & ASME · Rs. 20,000 Prize
 
 A collaborative project with a team of 3 members.
@@ -69,7 +69,7 @@ An AI-driven platform that converts complex prescriptions into personalised medi
 
 ---
 
-[> Pedestrian Boundary Detection](https://github.com/ansonmatt/Person-and-Boundary-Detection)
+[> AI Intrusion Detection System](https://github.com/ansonmatt/AI-Intrusion-Detection-System)
 > Computer Vision · Real-time Object Detection
 
 A **YOLO-based pipeline** that tracks pedestrians in live video and triggers alerts when individuals cross predefined restricted zones. Uses polygon zone mapping and centroid tracking - reliable across variable lighting.
@@ -78,7 +78,7 @@ A **YOLO-based pipeline** that tracks pedestrians in live video and triggers ale
 
 ---
 
-[> ADAS System Visualizer & Telemetry Console](https://github.com/ansonmatt/adas-dashboard)
+[> Driving Telemetry Console](https://github.com/ansonmatt/adas-dashboard)
 > Computer Vision · Real-time Object Detection · Streamlit Implemented
 
 A **YOLO-26 based pipeline** that detects traffic in dashcam footage and triggers alerts when traffic or pedestrians cross in front of the vehicle. Uses polygon zone mapping and centroid tracking to detect lanes and the other vehicles - reliable across variable lighting.
