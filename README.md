@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+## ▶ About Me
 
 I'm a B.Tech Computer Science (AI & ML) student at **Christ University, Bengaluru**, a **2026 Google Student Ambassador** and a **GeeksforGeeks Campus Mantri 2026** - with a background in creative design that shapes how I think about every technical problem.
 
@@ -31,7 +31,7 @@ My focus: **Computer Vision × Generative AI × Reinforcement Learning** - speci
 
 ---
 
-## Tech Stack
+## ▶ Tech Stack
 
 **AI & Machine Learning**
 
@@ -57,7 +57,7 @@ My focus: **Computer Vision × Generative AI × Reinforcement Learning** - speci
 
 ---
 
-## Featured Projects
+## ▶ Featured Projects
 
 [> Dr. Nudge - AI Medication Adherence Platform](https://github.com/alv1n25/Grassroots-Hackathon-Dr.Nudge)
 > 2nd Runner-Up · GRASP 2026 · KRUU & ASME · Rs. 20,000 Prize
@@ -87,7 +87,7 @@ A **YOLO-26 based pipeline** that detects traffic in dashcam footage and trigger
 
 ---
 
-## Certifications
+## ▶ Certifications
 
 | Certificate | Issuer | Year |
 |---|---|---|
@@ -106,7 +106,7 @@ A **YOLO-26 based pipeline** that detects traffic in dashcam footage and trigger
 
 ---
 
-## Let's Connect
+## ▶ Let's Connect
 
 I'm always open to:
 - Collaborating on AI + design intersection projects
