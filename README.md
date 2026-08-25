@@ -18,16 +18,16 @@
 
 ## About Me
 
-I'm a B.Tech Computer Science (AI & ML) student at **Christ University, Bengaluru**, a **2026 Google Student Ambassador** and a **GeeksforGeeks Campus Mantri 2026** — with a background in creative design that shapes how I think about every technical problem.
+I'm a B.Tech Computer Science (AI & ML) student at **Christ University, Bengaluru**, a **2026 Google Student Ambassador** and a **GeeksforGeeks Campus Mantri 2026** - with a background in creative design that shapes how I think about every technical problem.
 
 Most engineers ask *what* a model outputs. I ask *how* that output looks, feels, and communicates.
 
-My focus: **Computer Vision × Generative AI × Reinforcement Learning** — specifically translating human aesthetic judgements (layout, colour, visual hierarchy) into mathematical models and reward functions.
+My focus: **Computer Vision × Generative AI × Reinforcement Learning** - specifically translating human aesthetic judgements (layout, colour, visual hierarchy) into mathematical models and reward functions.
 
-- > **2nd Runner-Up** — GRASP 2026 National Hackathon (KRUU & ASME) · Rs. 20,000 prize
-- > **Google Student Ambassador** — bridging Google's tech ecosystem with 800+ campus students
-- > **GeeksforGeeks Campus Mantri** — connecting the campus to the industry through collaborations
-- > **Head of Media** — Team manager, International conference designs, newsletter editor, brand design
+- > **2nd Runner-Up** - GRASP 2026 National Hackathon (KRUU & ASME) · Rs. 20,000 prize
+- > **Google Student Ambassador** - bridging Google's tech ecosystem with 800+ campus students
+- > **GeeksforGeeks Campus Mantri** - connecting the campus to the industry through collaborations
+- > **Head of Media** - Team manager, International conference designs, newsletter editor, brand design
 
 ---
 
@@ -59,7 +59,7 @@ My focus: **Computer Vision × Generative AI × Reinforcement Learning** — spe
 
 ## Featured Projects
 
-[> Dr. Nudge — AI Medication Adherence Platform](https://github.com/alv1n25/Grassroots-Hackathon-Dr.Nudge)
+[> Dr. Nudge - AI Medication Adherence Platform](https://github.com/alv1n25/Grassroots-Hackathon-Dr.Nudge)
 > 2nd Runner-Up · GRASP 2026 · KRUU & ASME · Rs. 20,000 Prize
 
 A collaborative project with a team of 3 members.
@@ -72,7 +72,7 @@ An AI-driven platform that converts complex prescriptions into personalised medi
 [> Pedestrian Boundary Detection](https://github.com/ansonmatt/Person-and-Boundary-Detection)
 > Computer Vision · Real-time Object Detection
 
-A **YOLO-based pipeline** that tracks pedestrians in live video and triggers alerts when individuals cross predefined restricted zones. Uses polygon zone mapping and centroid tracking — reliable across variable lighting.
+A **YOLO-based pipeline** that tracks pedestrians in live video and triggers alerts when individuals cross predefined restricted zones. Uses polygon zone mapping and centroid tracking - reliable across variable lighting.
 
 `YOLO` `Python` `OpenCV` `Computer Vision`
 
@@ -81,7 +81,7 @@ A **YOLO-based pipeline** that tracks pedestrians in live video and triggers ale
 [> ADAS System Visualizer & Telemetry Console](https://github.com/ansonmatt/adas-dashboard)
 > Computer Vision · Real-time Object Detection · Streamlit Implemented
 
-A **YOLO-26 based pipeline** that detects traffic in dashcam footage and triggers alerts when traffic or pedestrians cross in front of the vehicle. Uses polygon zone mapping and centroid tracking to detect lanes and the other vehicles — reliable across variable lighting.
+A **YOLO-26 based pipeline** that detects traffic in dashcam footage and triggers alerts when traffic or pedestrians cross in front of the vehicle. Uses polygon zone mapping and centroid tracking to detect lanes and the other vehicles - reliable across variable lighting.
 
 `YOLO26` `Python` `OpenCV` `Computer Vision` `Streamlit`
 
@@ -92,29 +92,33 @@ A **YOLO-26 based pipeline** that detects traffic in dashcam footage and trigger
 | Certificate | Issuer | Year |
 |---|---|---|
 | AWS Certified AI Practitioner | AWS | 2026 |
+| The Joy of Computing using Python - **Elite + Gold 90%** | NPTEL · IIT Ropar | 2026 |
 | Foundation Course on AI Readiness | IICT, Ministry of Information and Broadcasting, Google, YouTube | 2026 |
 | AI Fluency: Framework & Foundations | Anthropic | 2026 |
-| The Joy of Computing using Python — **Elite + Gold 90%** | NPTEL · IIT Ropar | 2026 |
+| Video Streaming Concepts: AWS Media Services | AWS | 2026 |
+| UI and UX Developer | L&T EduTech | 2026 |
+| Advanced JavaScript Frameworks (Angular) | L&T EduTech | 2026|
 | 5-Day AI Agents Intensive with Google | Kaggle | 2025 |
 | Artificial Intelligence Fundamentals | IBM SkillsBuild | 2025 |
 | Use Generative AI for Software Development | IBM SkillsBuild | 2025 |
-| Graphic Design Essentials + Human-Centered Design | Canva Design School | 2025 |
 | Introduction to Cybersecurity + Data Science | Cisco Networking Academy | 2025 |
-| UI and UX Developer | L&T EduTech | 2026 |
+| Graphic Design Essentials + Human-Centered Design | Canva Design School | 2025 |
 
 ---
 
 ## Let's Connect
 
 I'm always open to:
-- > Collaborating on AI + design intersection projects
-- > Research conversations around computational aesthetics or generative AI
-- > Mentorship from people working in CV, GenAI, or creative tech
-- > Connecting with fellow Google Developer community members
+- Collaborating on AI + design intersection projects
+- Research conversations around computational aesthetics or generative AI
+- Mentorship from people working in CV, GenAI, or creative tech
+- Connecting with fellow Google Developer community members
 
-**Reach me on:
+**Reach me on:**
+
 [LinkedIn](https://linkedin.com/in/ansonmathewallan)
-[Email](mailto:ansonmathewalan@gmail.com)**
+
+[Email](mailto:ansonmathewalan@gmail.com)
 
 ---
 
