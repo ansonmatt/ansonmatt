@@ -24,10 +24,10 @@ Most engineers ask *what* a model outputs. I ask *how* that output looks, feels,
 
 My focus: **Computer Vision × Generative AI × Reinforcement Learning** - specifically translating human aesthetic judgements (layout, colour, visual hierarchy) into mathematical models and reward functions.
 
-- > **2nd Runner-Up** - GRASP 2026 National Hackathon (KRUU & ASME) · Rs. 20,000 prize
-- > **Google Student Ambassador** - bridging Google's tech ecosystem with 800+ campus students
-- > **GeeksforGeeks Campus Mantri** - connecting the campus to the industry through collaborations
-- > **Head of Media** - Team manager, International conference designs, newsletter editor, brand design
+- **2nd Runner-Up** - GRASP 2026 National Hackathon (KRUU & ASME) · Rs. 20,000 prize
+- **Google Student Ambassador** - bridging Google's tech ecosystem with 800+ campus students
+- **GeeksforGeeks Campus Mantri** - connecting the campus to the industry through collaborations
+- **Head of Media** - Team manager, International conference designs, newsletter editor, brand design
 
 ---
 
@@ -114,14 +114,10 @@ I'm always open to:
 - Mentorship from people working in CV, GenAI, or creative tech
 - Connecting with fellow Google Developer community members
 
-**Reach me on:**
-
-[LinkedIn](https://linkedin.com/in/ansonmathewallan)
-
-[Email](mailto:ansonmathewalan@gmail.com)
+**Reach me on:** [LinkedIn](https://linkedin.com/in/ansonmathewallan), [Email](mailto:ansonmathewalan@gmail.com)
 
 ---
 
 <div align="center">
-<sub>Built with curiosity · Designed with intention · Shipped with ☕</sub>
+<sub>github - ansonmatt</sub>
 </div>
