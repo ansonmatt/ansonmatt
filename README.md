@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a B.Tech Computer Science (AI & ML) student at **Christ University, Bengaluru**, a **2026 Google Student Ambassador** and a **GeeksforGeeks Campus Mantri 2026** — with a background in creative design that shapes how I think about every technical problem.
 
@@ -24,14 +24,14 @@ Most engineers ask *what* a model outputs. I ask *how* that output looks, feels,
 
 My focus: **Computer Vision × Generative AI × Reinforcement Learning** — specifically translating human aesthetic judgements (layout, colour, visual hierarchy) into mathematical models and reward functions.
 
-- 🏆 **2nd Runner-Up** — GRASP 2026 National Hackathon (KRUU & ASME) · Rs. 20,000 prize
-- 🌐 **Google Student Ambassador** — bridging Google's tech ecosystem with 800+ campus students
-- 📗 **GeeksforGeeks Campus Mantri** — connecting the campus to the industry through collaborations
-- 🎨 Designer first, engineer always — newsletter editor, event photographer, brand designer
+- > **2nd Runner-Up** — GRASP 2026 National Hackathon (KRUU & ASME) · Rs. 20,000 prize
+- > **Google Student Ambassador** — bridging Google's tech ecosystem with 800+ campus students
+- > **GeeksforGeeks Campus Mantri** — connecting the campus to the industry through collaborations
+- > **Head of Media** — Team manager, International conference designs, newsletter editor, brand design
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **AI & Machine Learning**
 
@@ -57,9 +57,9 @@ My focus: **Computer Vision × Generative AI × Reinforcement Learning** — spe
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-[🏆 Dr. Nudge — AI Medication Adherence Platform](https://github.com/alv1n25/Grassroots-Hackathon-Dr.Nudge)
+[> Dr. Nudge — AI Medication Adherence Platform](https://github.com/alv1n25/Grassroots-Hackathon-Dr.Nudge)
 > 2nd Runner-Up · GRASP 2026 · KRUU & ASME · Rs. 20,000 Prize
 
 A collaborative project with a team of 3 members.
@@ -69,7 +69,7 @@ An AI-driven platform that converts complex prescriptions into personalised medi
 
 ---
 
-[👁️ Pedestrian Boundary Detection](https://github.com/ansonmatt/Person-and-Boundary-Detection)
+[> Pedestrian Boundary Detection](https://github.com/ansonmatt/Person-and-Boundary-Detection)
 > Computer Vision · Real-time Object Detection
 
 A **YOLO-based pipeline** that tracks pedestrians in live video and triggers alerts when individuals cross predefined restricted zones. Uses polygon zone mapping and centroid tracking — reliable across variable lighting.
@@ -78,7 +78,7 @@ A **YOLO-based pipeline** that tracks pedestrians in live video and triggers ale
 
 ---
 
-[🚘 ADAS System Visualizer & Telemetry Console](https://github.com/ansonmatt/adas-dashboard)
+[> ADAS System Visualizer & Telemetry Console](https://github.com/ansonmatt/adas-dashboard)
 > Computer Vision · Real-time Object Detection · Streamlit Implemented
 
 A **YOLO-26 based pipeline** that detects traffic in dashcam footage and triggers alerts when traffic or pedestrians cross in front of the vehicle. Uses polygon zone mapping and centroid tracking to detect lanes and the other vehicles — reliable across variable lighting.
@@ -87,7 +87,7 @@ A **YOLO-26 based pipeline** that detects traffic in dashcam footage and trigger
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certificate | Issuer | Year |
 |---|---|---|
@@ -104,15 +104,17 @@ A **YOLO-26 based pipeline** that detects traffic in dashcam footage and trigger
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to:
-- 💡 Collaborating on AI + design intersection projects
-- 🧠 Research conversations around computational aesthetics or generative AI
-- 🎓 Mentorship from people working in CV, GenAI, or creative tech
-- 🌐 Connecting with fellow Google Developer community members
+- > Collaborating on AI + design intersection projects
+- > Research conversations around computational aesthetics or generative AI
+- > Mentorship from people working in CV, GenAI, or creative tech
+- > Connecting with fellow Google Developer community members
 
-**Reach me on [LinkedIn](https://linkedin.com/in/ansonmathewallan)**
+**Reach me on:
+[LinkedIn](https://linkedin.com/in/ansonmathewallan)
+[Email](mailto:ansonmathewalan@gmail.com)**
 
 ---
 
