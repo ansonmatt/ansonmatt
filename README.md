@@ -10,7 +10,7 @@
 *Where neural networks meet visual design.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansonmathewallan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1714?style=for-the-badge&logo=vercel&logoColor=white)]([#](https://ansonmatt.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1714?style=for-the-badge&logo=vercel&logoColor=white)](https://ansonmatt.vercel.app/)
 
 </div>
 
